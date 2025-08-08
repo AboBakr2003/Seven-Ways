@@ -1,0 +1,34 @@
+{
+  "description": "Our goal is to maintain your car and protect it from scratches, gravel and harsh weather factors, and all this provides you with high -quality protection films, which are characterized by self -treatment technology to ensure a longer life for your car's elegance",
+  "branches-title": "Our Branches",
+  "country-selection": {
+    "egypt": "Egypt",
+    "saudi": "Saudi Arabia"
+  },
+  "branches-list": {
+    "saudi-arabia": {
+      "name": "Saudi Arabia:",
+      "branches": [
+        "Riyadh Branch - Al Qadisiyah - Car Showrooms",
+        "Jazan Branch - Sabya - King Fahd Road",
+        "Khamis Mushait Branch - Car Showrooms",
+        "Dammam Branch",
+        "Jeddah Branch"
+      ],
+      "phones": [
+        "966534899166",
+        "966504118823"
+      ]
+    },
+    "egypt": {
+      "name": "Egypt:",
+      "branches": [
+        "Wataniya Gas Station - Next to Al Salam Mosque, Wafaa and Amal, Nasr City"
+      ],
+      "phones": [
+        "01099025564",
+        "01095584458"
+      ]
+    }
+  }
+}

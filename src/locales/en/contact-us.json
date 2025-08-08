@@ -1,0 +1,29 @@
+{
+  "header": "Our Branches & Numbers",
+  "branches-title": "Our Branches",
+  "branches-list": {
+    "country": [
+      { "key": "saudi-arabia", "name": "Saudi Arabia:" },
+      { "key": "egypt", "name": "Egypt:" }
+    ],
+    "saudi-arabia": [
+      { 
+        "name": "Al Qadisiyah", 
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3621.109458180303!2d46.826651000000005!3d24.825930099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2e55e2569c1033%3A0x58a5ab5b9930ee16!2sSEVEN%20WAYS!5e0!3m2!1sar!2seg!4v1754321572499!5m2!1sar!2seg",
+        "phone": "+966534899166"
+      },
+      { 
+        "name": "Jazan",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3812.218296091228!2d42.6290111!3d17.159589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15fd53c4b043abfd%3A0x685382d5362607fa!2sSEVEN%20WAYS!5e0!3m2!1sar!2seg!4v1754321640995!5m2!1sar!2seg",
+        "phone": "+966504118823"
+      }
+    ],
+    "egypt": [
+      {
+        "name": "Nasr City",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.6884222212807!2d31.358420824582655!3d30.045795518506964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583d002493452f%3A0xe7f18626b13860ec!2sSeven%20Ways!5e0!3m2!1sar!2seg!4v1754321669152!5m2!1sar!2seg",
+        "phone": "+201099025564"
+      }
+    ]
+  }   
+}

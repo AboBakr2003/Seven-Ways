@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@theme{
+  --color-primary: #e6272f;
+  --color-secondary: #ffb81c;
+  --color-black: #1a1a1a;
+  --color-gray: #7A7A73;
+}
+
+.home-bg,
+.adv-bg, 
+.services-section-bg,
+.pages-title-bg,
+.services-articles-bg,
+.products-bg,
+.about-us-bg,
+.branches-bg {
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+}
+
+.home-bg{
+  background-image: url("../src/assets/home-bg.webp");
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.adv-bg{
+  background-image: url("../src/assets/adv-bg.webp");
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.services-section-bg, .services-articles-bg{
+  background-image: url("../src/assets/services-articles-bg.webp");
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.pages-title-bg{
+  background-image: url("../src/assets/pages-title-bg.webp");
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.products-bg{
+  background-image: url("../src/assets/products-bg.webp");
+  background-color: rgba(0, 0, 0, 0.8);
+  background-attachment: fixed;
+  position: relative;
+  z-index: -2;
+}
+
+.about-us-bg{
+  background-image: url("../src/assets/about-us-bg.webp");
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.about-us-video-frame{
+  background-image: url("../src/assets/about-us-video-frame.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  z-index: 20;
+}
+
+.branches-bg{
+  background-image: url("../src/assets/branches-bg.webp");
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  color: #ffb81c;
+}
