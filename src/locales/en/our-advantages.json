@@ -1,0 +1,29 @@
+{
+  "why-seven-ways": "Why choose SevenWays?",
+  "competitive-advantages": {
+    "adv-one": {
+      "title": "Longest warranty period",
+      "description": "the longest warranty on the market—up to 15 years—on auto protection services, because we trust the quality of our products and installation. Our warranty covers any manufacturing defects or installation issues."
+    },
+    "adv-two": {
+      "title": "Automatic cutting machines",
+      "description": "We use advanced automatic cutting machines in most of our branches to cut protective films with high precision, eliminating any human error, ensuring optimal car coverage without gaps or defects."
+    },
+    "adv-three": {
+      "title": "Precision & Professional Installation",
+      "description": "Our highly trained team pays attention to every detail during installation, ensuring perfect protection without any problems or defects, with a final finish that matches your car's appearance."
+    },
+    "adv-four": {
+      "title": "Value for Money",
+      "description": "We combine premium quality with competitive pricing to give you the best return on your investment."
+    },
+    "adv-five": {
+      "title": "After-Sales Support",
+      "description": "we provide continuous support even after the installation of the protection films. Whether it's a question, routine maintenance, or a follow-up, our team is always ready to assist you anytime."
+    },
+    "adv-six": {
+      "title": "XPEL Agent",
+      "description": "Our company is the official agent of XPEL, a leading company in the world of protective and thermal insulation films."
+    }
+  }
+}
